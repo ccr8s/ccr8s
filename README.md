@@ -20,14 +20,9 @@
 </details> --->
 
 
-<details>
-  <summary><h4> <img align="center" src="https://github.com/ccr8s/ccr8s/blob/main/icons/projects.gif" width="29"/> Projects</h4></summary>
 
-  <a href="https://github.com/ccr8s/ccr8s">Web Design</a>
-  <span><img src="https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white"><img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"></span>
-  - Implemented features to notify users about new opportunities.
-  - Achieved a user base of X, surpassing initial projections.
-</details>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ccr8s&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!---
 ccr8s/ccr8s is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
